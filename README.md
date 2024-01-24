@@ -1,11 +1,11 @@
 # ExpressTranslate
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://myaitranslatorazapp.azurewebsites.net/">Multilingual Content Hub - ExpressTranslate Translation Web App using Azure AI Translation Service.</b></a>
+<h2>Project Title:</h2><b><a href="https://mytextserviceappazure.azurewebsites.net/">Multilingual Content Hub - ExpressTranslate Translation Web App using Azure AI Translation Service.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://myaitranslatorazapp.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> https://mytextserviceappazure.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1V0i89R1XDO-Nz8IcBN2qJwiiE62ADxn-/view?usp=sharing <br>
-<b>Github Repository URL :</b>https://github.com/AmrutaNichale/trans-app <br>
+<b>Github Repository URL :</b>https://github.com/NishaShelake/mytextservice <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
 <h3>
@@ -68,4 +68,4 @@ The Multilingual Content Hub represents a paradigm shift in language connectivit
 <b>This project is more than just an application; it's an ongoing exploration of boundless communication possibilities. In an era characterized by global connectivity, the Multilingual Content Hub stands as a pivotal step toward a more accessible and interconnected world. By harnessing the power of Azure's technology, this initiative not only addresses language barriers but also lays the foundation for a future where diverse communities can communicate effortlessly, fostering a world where the richness of linguistic diversity enhances global collaboration. The Multilingual Content Hub is not just a tool; it is a symbol of progress in the quest for universal communication in our interconnected global village.
 </b>
 </p> <br>
-</h2><b><a href="https://myaitranslatorazapp.azurewebsites.net/">Multilingual Content Hub -ExpressTranslate Translation Web App using Azure AI Translation Service</b></a>
+</h2><b><a href="https://mytextserviceappazure.azurewebsites.net//">Multilingual Content Hub -ExpressTranslate Translation Web App using Azure AI Translation Service</b></a>
