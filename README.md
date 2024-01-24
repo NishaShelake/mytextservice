@@ -1,6 +1,6 @@
-# trans-vista
+# ExpressTranslate
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://myaitranslatorazapp.azurewebsites.net/">Multilingual Content Hub - TransVista Translation Web App using Azure AI Translation Service.</b></a>
+<h2>Project Title:</h2><b><a href="https://myaitranslatorazapp.azurewebsites.net/">Multilingual Content Hub - ExpressTranslate Translation Web App using Azure AI Translation Service.</b></a>
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://myaitranslatorazapp.azurewebsites.net/ <br>
@@ -18,7 +18,7 @@ Azure AI Service <br>
 <h2>Problem Statement</h2>
 <p align="justify">In today's highly interconnected global landscape, there is a growing demand for a seamless communication platform that transcends language barriers. The challenge at hand is to develop a user-friendly solution that facilitates easy translation of content while also maintaining a comprehensive record of user interactions. The goal is to create an efficient and scalable system that caters to the diverse language translation needs of users, thereby enhancing their overall experience. Additionally, the solution should integrate recent search data to further improve the accuracy and relevance of translations, making it a holistic and innovative tool for cross-language communication.</p>
 <h2>Project Description</h2>
-<p align="justify">The "Multilingual Content Hub - TransVista" is a sophisticated web application meticulously crafted to streamline language translation and capture a comprehensive history of user interactions. This intuitive platform empowers users to input text seamlessly, harnessing the power of the Azure AI Translator service to deliver precise and contextually relevant translations.</p><br>
+<p align="justify">The "Multilingual Content Hub - ExpressTranslate" is a sophisticated web application meticulously crafted to streamline language translation and capture a comprehensive history of user interactions. This intuitive platform empowers users to input text seamlessly, harnessing the power of the Azure AI Translator service to deliver precise and contextually relevant translations.</p><br>
 <b>Key Features :</b>
 <ul>
     <li>Seamless Language Translation</li>
@@ -68,4 +68,4 @@ The Multilingual Content Hub represents a paradigm shift in language connectivit
 <b>This project is more than just an application; it's an ongoing exploration of boundless communication possibilities. In an era characterized by global connectivity, the Multilingual Content Hub stands as a pivotal step toward a more accessible and interconnected world. By harnessing the power of Azure's technology, this initiative not only addresses language barriers but also lays the foundation for a future where diverse communities can communicate effortlessly, fostering a world where the richness of linguistic diversity enhances global collaboration. The Multilingual Content Hub is not just a tool; it is a symbol of progress in the quest for universal communication in our interconnected global village.
 </b>
 </p> <br>
-</h2><b><a href="https://myaitranslatorazapp.azurewebsites.net/">Multilingual Content Hub - TransVista Translation Web App using Azure AI Translation Service</b></a>
+</h2><b><a href="https://myaitranslatorazapp.azurewebsites.net/">Multilingual Content Hub -ExpressTranslate Translation Web App using Azure AI Translation Service</b></a>
