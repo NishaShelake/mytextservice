@@ -4,7 +4,7 @@
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://mytextserviceappazure.azurewebsites.net/ <br>
-<b>Demo Video URL :</b>  <br>
+<b>Demo Video URL :</b> <br>
 <b>Github Repository URL :</b>https://github.com/NishaShelake/mytextservice <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
