@@ -4,7 +4,7 @@
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://mytextserviceappazure.azurewebsites.net/ <br>
-<b>Demo Video URL :</b> https://drive.google.com/file/d/1V0i89R1XDO-Nz8IcBN2qJwiiE62ADxn-/view?usp=sharing <br>
+<b>Demo Video URL :</b>  <br>
 <b>Github Repository URL :</b>https://github.com/NishaShelake/mytextservice <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
@@ -47,19 +47,19 @@ Azure AI Service <br>
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
-<img src="./screenshots/Screenshot (89).png" alt="azure-app-service"></img><br>
+<img src="./Screenshots/Screenshot (11).png" alt="azure-app-service"></img><br>
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
-<img src="./screenshots/Screenshot (92).png" alt="azure-mysql-db-service"></img><br>
+<img src="./Screenshots/Screenshot (92).png" alt="azure-mysql-db-service"></img><br>
 <h3>Azure AI Translator Service</h3>
 <b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="./screenshots/Screenshot (91).png" alt="azure-translator-ai-service"></img><br>
+<img src="./Screenshots/Screenshot (14).png" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="./screenshots/Screenshot (90).png" alt="final-project-demo"></img>
+<img src="./Screenshots/Screenshot (10).png" alt="final-project-demo"></img>
 
 <h3>Resource Visualizer</h3>
-<img src="./screenshots/flask-ai.jpg" alt="resource-display"></img>
+<img src="./Screenshots/Screenshot (13).png" alt="resource-display"></img>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
