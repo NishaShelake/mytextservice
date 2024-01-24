@@ -134,17 +134,13 @@ th {
                 <thead>
                   <tr>
                       
-                    <th scope="col">original_text</th>
-                    <th scope="col">translated_text</th>
-                    <th scope="col">target_language</th>
+                    <th scope="col">Previous Searches</th>
                   </tr>
                 </thead>
                 <tbody>
                    <h3> {% for x in myresult %}</h3>
                   <tr>
                     <td>{{ x[0] }}</td>
-                    <td>{{ x[1] }}</td>
-                    <td>{{ x[2] }}</td>
                   </tr>
                   <h3>{% endfor %}</h3>
                 </tbody>
